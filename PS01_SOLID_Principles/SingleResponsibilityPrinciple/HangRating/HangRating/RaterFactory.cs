@@ -32,7 +32,7 @@ namespace HangRating
             }
             catch
             {
-                return null;
+                return new UnknownPolicyRater();
             }
         }
     }

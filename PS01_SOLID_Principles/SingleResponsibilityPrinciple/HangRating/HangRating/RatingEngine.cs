@@ -25,7 +25,7 @@ namespace HangRating
                 new StringEnumConverter());
 
             var rater = Factory.GetRater(policy, true);
-            rater?.Rate(this, policy);
+            rater.Rate(this, policy);
 
             Console.WriteLine("Rating completed.");
         }
