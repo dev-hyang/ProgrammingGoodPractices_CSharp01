@@ -1,5 +1,7 @@
 ﻿{
-  "type": "Land",
-  "bondAmount": "1000000",
-  "valuation": "1100000"
+  "type": "Life",
+  "FullName": "YoungVivo",
+  "DateOfBirth":"1998-08-08",
+  "IsSmoker": false,
+  "Amount": 30000
 }
