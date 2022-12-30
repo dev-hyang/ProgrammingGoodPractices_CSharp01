@@ -12,4 +12,6 @@ if (engine.Rating > 0)
 else
 {
     Console.WriteLine("No rating provided.");
+    Console.WriteLine("No rating provided.");
+    Console.WriteLine("No rating provided.");
 }
