@@ -28,6 +28,7 @@ namespace HangRating
             {
                 case PolicyType.Auto:
                     Console.WriteLine("Rating AUTO policy...");
+                    Console.WriteLine("Validating policy start.");
                     Console.WriteLine("Validating policy.");
                     if (String.IsNullOrEmpty(policy.Make))
                     {
